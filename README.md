@@ -2,6 +2,9 @@
 
 Forecasting Net Prophet
 
+![1*3cJpR6oFF75EZpgZglYUJQ](https://user-images.githubusercontent.com/80144026/125236987-c6e98b00-e299-11eb-917e-c41009b0598d.png)
+
+
 This is a time series analysis project for analyzing a company's financial and user data in clever ways to make the company grow. In this activity, we will find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.website traffic . With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America. We will find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
 
 
